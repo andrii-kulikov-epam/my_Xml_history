@@ -1,3 +1,5 @@
-<dita property="5">
-    Text
+<dita property="7" additional="Value">
+    <data id="2">
+        Text
+    </data>
 </dita>
